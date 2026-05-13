@@ -92,7 +92,7 @@ https://whatsapp.com/channel/0029Vb8Ho0vD38CadOw1BT2S
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/ncube3153-rgb/Malvin-pair 
+https://github.com/ncube3153-rgb/Mikelae-zw-MD 
 
 ——————
 
@@ -102,9 +102,9 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "mikelae-xᴅ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029Vb8Ho0vD38CadOw1BT2S",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -127,7 +127,7 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029Vb8Ho0vD38CadOw1BT2S
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/ncube3153-rgb/malvin-pair
+https://github.com/ncube3153-rgb/Mikelae-zw-MD
 
 ——————
 
